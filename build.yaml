@@ -1,8 +1,7 @@
 ---
 include:
-  - board: aum_left
-    shield: nice_view_reverse
-    snippet: studio-rpc-usb-uart
-  - board: aum_right
-    shield: nice_view_reverse
+  - board: nice_nano_v2
+    shield: dante
+  - board: nice_nano_v2
+    shield: dante
 
